@@ -9,9 +9,10 @@
 <h4> Desafio 03 - Conceitos do React.js</h4>
 
 1. [Desafio-03](https://github.com/Anna18921/goStack-12-desafio-conceitos-nodejs/tree/master/src) - Done :heavy_check_mark:
-  - Execução do Front-End: yarn start 
   
-  
+2. Instalação: 
+  - git clone https://github.com/Anna18921/goStack-12-desafio-03-conceitos-reactjs.git  
+  -  Execução do Front-End: yarn start 
 <h6>Dependência: Desafio 02 - Conceitos do Node.js</h6>
 
 1. [Desafio-02](https://github.com/Anna18921/goStack-12-desafio-conceitos-nodejs)
