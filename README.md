@@ -22,6 +22,11 @@
  
  ![desafio-reactjs](https://user-images.githubusercontent.com/53823948/89118103-79ee1980-d479-11ea-8501-53bce6720de1.png)
 
+1. <h4>Ações</h4> 
+  - Criar um repositório: Clique em adicionar
+  - Deletar um repositório: Clique em remover
+
+
   
 <h4>Resultado</h4>
 
